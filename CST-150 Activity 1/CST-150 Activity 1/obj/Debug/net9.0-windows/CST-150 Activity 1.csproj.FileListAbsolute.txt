@@ -1,0 +1,16 @@
+C:\Users\Jarvis\Desktop\C#\Projects\CST-150 Activity 1\CST-150 Activity 1\bin\Debug\net9.0-windows\CST-150 Activity 1.exe
+C:\Users\Jarvis\Desktop\C#\Projects\CST-150 Activity 1\CST-150 Activity 1\bin\Debug\net9.0-windows\CST-150 Activity 1.deps.json
+C:\Users\Jarvis\Desktop\C#\Projects\CST-150 Activity 1\CST-150 Activity 1\bin\Debug\net9.0-windows\CST-150 Activity 1.runtimeconfig.json
+C:\Users\Jarvis\Desktop\C#\Projects\CST-150 Activity 1\CST-150 Activity 1\bin\Debug\net9.0-windows\CST-150 Activity 1.dll
+C:\Users\Jarvis\Desktop\C#\Projects\CST-150 Activity 1\CST-150 Activity 1\bin\Debug\net9.0-windows\CST-150 Activity 1.pdb
+C:\Users\Jarvis\Desktop\C#\Projects\CST-150 Activity 1\CST-150 Activity 1\obj\Debug\net9.0-windows\CST_150_Activity_1.Form1.resources
+C:\Users\Jarvis\Desktop\C#\Projects\CST-150 Activity 1\CST-150 Activity 1\obj\Debug\net9.0-windows\CST-150 Activity 1.csproj.GenerateResource.cache
+C:\Users\Jarvis\Desktop\C#\Projects\CST-150 Activity 1\CST-150 Activity 1\obj\Debug\net9.0-windows\CST-150 Activity 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarvis\Desktop\C#\Projects\CST-150 Activity 1\CST-150 Activity 1\obj\Debug\net9.0-windows\CST-150 Activity 1.AssemblyInfoInputs.cache
+C:\Users\Jarvis\Desktop\C#\Projects\CST-150 Activity 1\CST-150 Activity 1\obj\Debug\net9.0-windows\CST-150 Activity 1.AssemblyInfo.cs
+C:\Users\Jarvis\Desktop\C#\Projects\CST-150 Activity 1\CST-150 Activity 1\obj\Debug\net9.0-windows\CST-150 Activity 1.csproj.CoreCompileInputs.cache
+C:\Users\Jarvis\Desktop\C#\Projects\CST-150 Activity 1\CST-150 Activity 1\obj\Debug\net9.0-windows\CST-150 Activity 1.dll
+C:\Users\Jarvis\Desktop\C#\Projects\CST-150 Activity 1\CST-150 Activity 1\obj\Debug\net9.0-windows\refint\CST-150 Activity 1.dll
+C:\Users\Jarvis\Desktop\C#\Projects\CST-150 Activity 1\CST-150 Activity 1\obj\Debug\net9.0-windows\CST-150 Activity 1.pdb
+C:\Users\Jarvis\Desktop\C#\Projects\CST-150 Activity 1\CST-150 Activity 1\obj\Debug\net9.0-windows\CST-150 Activity 1.genruntimeconfig.cache
+C:\Users\Jarvis\Desktop\C#\Projects\CST-150 Activity 1\CST-150 Activity 1\obj\Debug\net9.0-windows\ref\CST-150 Activity 1.dll
