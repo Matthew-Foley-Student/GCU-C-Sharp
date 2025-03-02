@@ -1,0 +1,16 @@
+C:\Users\Jarvis\Desktop\C#\Week 3\Activity Week 3\CST-150 Activity 3\bin\Debug\net9.0-windows\CST-150 Activity 3.exe
+C:\Users\Jarvis\Desktop\C#\Week 3\Activity Week 3\CST-150 Activity 3\bin\Debug\net9.0-windows\CST-150 Activity 3.deps.json
+C:\Users\Jarvis\Desktop\C#\Week 3\Activity Week 3\CST-150 Activity 3\bin\Debug\net9.0-windows\CST-150 Activity 3.runtimeconfig.json
+C:\Users\Jarvis\Desktop\C#\Week 3\Activity Week 3\CST-150 Activity 3\bin\Debug\net9.0-windows\CST-150 Activity 3.dll
+C:\Users\Jarvis\Desktop\C#\Week 3\Activity Week 3\CST-150 Activity 3\bin\Debug\net9.0-windows\CST-150 Activity 3.pdb
+C:\Users\Jarvis\Desktop\C#\Week 3\Activity Week 3\CST-150 Activity 3\obj\Debug\net9.0-windows\CST_150_Activity_3.Form1.resources
+C:\Users\Jarvis\Desktop\C#\Week 3\Activity Week 3\CST-150 Activity 3\obj\Debug\net9.0-windows\CST-150 Activity 3.csproj.GenerateResource.cache
+C:\Users\Jarvis\Desktop\C#\Week 3\Activity Week 3\CST-150 Activity 3\obj\Debug\net9.0-windows\CST-150 Activity 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarvis\Desktop\C#\Week 3\Activity Week 3\CST-150 Activity 3\obj\Debug\net9.0-windows\CST-150 Activity 3.AssemblyInfoInputs.cache
+C:\Users\Jarvis\Desktop\C#\Week 3\Activity Week 3\CST-150 Activity 3\obj\Debug\net9.0-windows\CST-150 Activity 3.AssemblyInfo.cs
+C:\Users\Jarvis\Desktop\C#\Week 3\Activity Week 3\CST-150 Activity 3\obj\Debug\net9.0-windows\CST-150 Activity 3.csproj.CoreCompileInputs.cache
+C:\Users\Jarvis\Desktop\C#\Week 3\Activity Week 3\CST-150 Activity 3\obj\Debug\net9.0-windows\CST-150 Activity 3.dll
+C:\Users\Jarvis\Desktop\C#\Week 3\Activity Week 3\CST-150 Activity 3\obj\Debug\net9.0-windows\refint\CST-150 Activity 3.dll
+C:\Users\Jarvis\Desktop\C#\Week 3\Activity Week 3\CST-150 Activity 3\obj\Debug\net9.0-windows\CST-150 Activity 3.pdb
+C:\Users\Jarvis\Desktop\C#\Week 3\Activity Week 3\CST-150 Activity 3\obj\Debug\net9.0-windows\CST-150 Activity 3.genruntimeconfig.cache
+C:\Users\Jarvis\Desktop\C#\Week 3\Activity Week 3\CST-150 Activity 3\obj\Debug\net9.0-windows\ref\CST-150 Activity 3.dll
