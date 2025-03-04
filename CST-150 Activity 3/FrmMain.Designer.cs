@@ -32,6 +32,8 @@
             selectFileDialog = new OpenFileDialog();
             lblSelectedFile = new Label();
             lblResults = new Label();
+            cmbSelectRow = new ComboBox();
+            lblSelectRow = new Label();
             SuspendLayout();
             // 
             // button1
@@ -77,11 +79,31 @@
             lblResults.TabIndex = 2;
             lblResults.Text = "label1";
             // 
+            // cmbSelectRow
+            // 
+            cmbSelectRow.FormattingEnabled = true;
+            cmbSelectRow.Location = new Point(150, 52);
+            cmbSelectRow.Name = "cmbSelectRow";
+            cmbSelectRow.Size = new Size(121, 23);
+            cmbSelectRow.TabIndex = 3;
+            cmbSelectRow.DropDownClosed += SelectRowToInc;
+            // 
+            // lblSelectRow
+            // 
+            lblSelectRow.AutoSize = true;
+            lblSelectRow.Location = new Point(150, 27);
+            lblSelectRow.Name = "lblSelectRow";
+            lblSelectRow.Size = new Size(64, 15);
+            lblSelectRow.TabIndex = 4;
+            lblSelectRow.Text = "Select Row";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(lblSelectRow);
+            Controls.Add(cmbSelectRow);
             Controls.Add(lblResults);
             Controls.Add(lblSelectedFile);
             Controls.Add(button1);
@@ -97,5 +119,7 @@
         private OpenFileDialog selectFileDialog;
         private Label lblSelectedFile;
         private Label lblResults;
+        private ComboBox cmbSelectRow;
+        private Label lblSelectRow;
     }
 }

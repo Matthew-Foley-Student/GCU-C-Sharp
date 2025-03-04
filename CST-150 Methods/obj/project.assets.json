@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jarvis\\Desktop\\C#\\Week 4\\Activity Week 4\\CST-150 Activity 3\\CST-150 Activity 3.csproj",
-      "projectName": "CST-150 Activity 3",
-      "projectPath": "C:\\Users\\Jarvis\\Desktop\\C#\\Week 4\\Activity Week 4\\CST-150 Activity 3\\CST-150 Activity 3.csproj",
+      "projectUniqueName": "C:\\Users\\Jarvis\\Desktop\\C#\\Week 4\\Activity Week 4\\CST-150 Methods\\CST-150 Methods.csproj",
+      "projectName": "CST-150 Methods",
+      "projectPath": "C:\\Users\\Jarvis\\Desktop\\C#\\Week 4\\Activity Week 4\\CST-150 Methods\\CST-150 Methods.csproj",
       "packagesPath": "C:\\Users\\Jarvis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jarvis\\Desktop\\C#\\Week 4\\Activity Week 4\\CST-150 Activity 3\\obj\\",
+      "outputPath": "C:\\Users\\Jarvis\\Desktop\\C#\\Week 4\\Activity Week 4\\CST-150 Methods\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
