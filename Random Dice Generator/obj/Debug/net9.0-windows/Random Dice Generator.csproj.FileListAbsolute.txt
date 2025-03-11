@@ -1,0 +1,17 @@
+C:\Users\Jarvis\Desktop\C#\Week 5\Activity Week 4\Random Dice Generator\obj\Debug\net9.0-windows\Random_Dice_Generator.Form1.resources
+C:\Users\Jarvis\Desktop\C#\Week 5\Activity Week 4\Random Dice Generator\obj\Debug\net9.0-windows\Random Dice Generator.csproj.GenerateResource.cache
+C:\Users\Jarvis\Desktop\C#\Week 5\Activity Week 4\Random Dice Generator\bin\Debug\net9.0-windows\Random Dice Generator.exe
+C:\Users\Jarvis\Desktop\C#\Week 5\Activity Week 4\Random Dice Generator\bin\Debug\net9.0-windows\Random Dice Generator.deps.json
+C:\Users\Jarvis\Desktop\C#\Week 5\Activity Week 4\Random Dice Generator\bin\Debug\net9.0-windows\Random Dice Generator.runtimeconfig.json
+C:\Users\Jarvis\Desktop\C#\Week 5\Activity Week 4\Random Dice Generator\bin\Debug\net9.0-windows\Random Dice Generator.dll
+C:\Users\Jarvis\Desktop\C#\Week 5\Activity Week 4\Random Dice Generator\bin\Debug\net9.0-windows\Random Dice Generator.pdb
+C:\Users\Jarvis\Desktop\C#\Week 5\Activity Week 4\Random Dice Generator\obj\Debug\net9.0-windows\Random_Dice_Generator.Properties.Resources.resources
+C:\Users\Jarvis\Desktop\C#\Week 5\Activity Week 4\Random Dice Generator\obj\Debug\net9.0-windows\Random Dice Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarvis\Desktop\C#\Week 5\Activity Week 4\Random Dice Generator\obj\Debug\net9.0-windows\Random Dice Generator.AssemblyInfoInputs.cache
+C:\Users\Jarvis\Desktop\C#\Week 5\Activity Week 4\Random Dice Generator\obj\Debug\net9.0-windows\Random Dice Generator.AssemblyInfo.cs
+C:\Users\Jarvis\Desktop\C#\Week 5\Activity Week 4\Random Dice Generator\obj\Debug\net9.0-windows\Random Dice Generator.csproj.CoreCompileInputs.cache
+C:\Users\Jarvis\Desktop\C#\Week 5\Activity Week 4\Random Dice Generator\obj\Debug\net9.0-windows\Random Dice Generator.dll
+C:\Users\Jarvis\Desktop\C#\Week 5\Activity Week 4\Random Dice Generator\obj\Debug\net9.0-windows\refint\Random Dice Generator.dll
+C:\Users\Jarvis\Desktop\C#\Week 5\Activity Week 4\Random Dice Generator\obj\Debug\net9.0-windows\Random Dice Generator.pdb
+C:\Users\Jarvis\Desktop\C#\Week 5\Activity Week 4\Random Dice Generator\obj\Debug\net9.0-windows\Random Dice Generator.genruntimeconfig.cache
+C:\Users\Jarvis\Desktop\C#\Week 5\Activity Week 4\Random Dice Generator\obj\Debug\net9.0-windows\ref\Random Dice Generator.dll
