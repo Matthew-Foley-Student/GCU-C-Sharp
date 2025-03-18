@@ -1,0 +1,7 @@
+SnowGlobe (Santa), 81.68, 13, Winter, No
+Decor. (skeleton), 13.51, 120, Fall, No
+Cough Drops (lemon), 5.82, 600, All-Season's, Yes
+Cough Drops (mint), 6.12, 22, All-Season's, Yes
+CampLogs (pine), 24.35, 2600, All-Season's, Yes
+CampLogs (cedar), 30.33, 860, Spring, Yes
+T.V (80inch), 2651.99, 6, All-Seaon's, No
