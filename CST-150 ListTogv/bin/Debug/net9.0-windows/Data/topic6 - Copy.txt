@@ -1,0 +1,6 @@
+Test1,Blue,32
+Test2,Green,55
+Test3,Yellow,0
+Test4,Purple,31
+Test5,Violette,782
+Test6,Hashbrown,8241
