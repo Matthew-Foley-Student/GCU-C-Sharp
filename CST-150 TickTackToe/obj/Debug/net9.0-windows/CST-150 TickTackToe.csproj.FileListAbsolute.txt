@@ -1,0 +1,16 @@
+C:\Users\Jarvis\Desktop\C#\Week 6\Activity Week 6\CST-150 TickTackToe\bin\Debug\net9.0-windows\CST-150 TickTackToe.exe
+C:\Users\Jarvis\Desktop\C#\Week 6\Activity Week 6\CST-150 TickTackToe\bin\Debug\net9.0-windows\CST-150 TickTackToe.deps.json
+C:\Users\Jarvis\Desktop\C#\Week 6\Activity Week 6\CST-150 TickTackToe\bin\Debug\net9.0-windows\CST-150 TickTackToe.runtimeconfig.json
+C:\Users\Jarvis\Desktop\C#\Week 6\Activity Week 6\CST-150 TickTackToe\bin\Debug\net9.0-windows\CST-150 TickTackToe.dll
+C:\Users\Jarvis\Desktop\C#\Week 6\Activity Week 6\CST-150 TickTackToe\bin\Debug\net9.0-windows\CST-150 TickTackToe.pdb
+C:\Users\Jarvis\Desktop\C#\Week 6\Activity Week 6\CST-150 TickTackToe\obj\Debug\net9.0-windows\CST_150_TickTackToe.Form1.resources
+C:\Users\Jarvis\Desktop\C#\Week 6\Activity Week 6\CST-150 TickTackToe\obj\Debug\net9.0-windows\CST-150 TickTackToe.csproj.GenerateResource.cache
+C:\Users\Jarvis\Desktop\C#\Week 6\Activity Week 6\CST-150 TickTackToe\obj\Debug\net9.0-windows\CST-150 TickTackToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarvis\Desktop\C#\Week 6\Activity Week 6\CST-150 TickTackToe\obj\Debug\net9.0-windows\CST-150 TickTackToe.AssemblyInfoInputs.cache
+C:\Users\Jarvis\Desktop\C#\Week 6\Activity Week 6\CST-150 TickTackToe\obj\Debug\net9.0-windows\CST-150 TickTackToe.AssemblyInfo.cs
+C:\Users\Jarvis\Desktop\C#\Week 6\Activity Week 6\CST-150 TickTackToe\obj\Debug\net9.0-windows\CST-150 TickTackToe.csproj.CoreCompileInputs.cache
+C:\Users\Jarvis\Desktop\C#\Week 6\Activity Week 6\CST-150 TickTackToe\obj\Debug\net9.0-windows\CST-150 TickTackToe.dll
+C:\Users\Jarvis\Desktop\C#\Week 6\Activity Week 6\CST-150 TickTackToe\obj\Debug\net9.0-windows\refint\CST-150 TickTackToe.dll
+C:\Users\Jarvis\Desktop\C#\Week 6\Activity Week 6\CST-150 TickTackToe\obj\Debug\net9.0-windows\CST-150 TickTackToe.pdb
+C:\Users\Jarvis\Desktop\C#\Week 6\Activity Week 6\CST-150 TickTackToe\obj\Debug\net9.0-windows\CST-150 TickTackToe.genruntimeconfig.cache
+C:\Users\Jarvis\Desktop\C#\Week 6\Activity Week 6\CST-150 TickTackToe\obj\Debug\net9.0-windows\ref\CST-150 TickTackToe.dll
