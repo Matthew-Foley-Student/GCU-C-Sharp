@@ -1,0 +1,20 @@
+C:\Users\Jarvis\Desktop\C#\Week 2\Project 2\Project 2\bin\Debug\net9.0-windows\Project 2.exe
+C:\Users\Jarvis\Desktop\C#\Week 2\Project 2\Project 2\bin\Debug\net9.0-windows\Project 2.deps.json
+C:\Users\Jarvis\Desktop\C#\Week 2\Project 2\Project 2\bin\Debug\net9.0-windows\Project 2.runtimeconfig.json
+C:\Users\Jarvis\Desktop\C#\Week 2\Project 2\Project 2\bin\Debug\net9.0-windows\Project 2.dll
+C:\Users\Jarvis\Desktop\C#\Week 2\Project 2\Project 2\bin\Debug\net9.0-windows\Project 2.pdb
+C:\Users\Jarvis\Desktop\C#\Week 2\Project 2\Project 2\obj\Debug\net9.0-windows\Project_2.HomePage.resources
+C:\Users\Jarvis\Desktop\C#\Week 2\Project 2\Project 2\obj\Debug\net9.0-windows\Project_2.Properties.Resources.resources
+C:\Users\Jarvis\Desktop\C#\Week 2\Project 2\Project 2\obj\Debug\net9.0-windows\Project 2.csproj.GenerateResource.cache
+C:\Users\Jarvis\Desktop\C#\Week 2\Project 2\Project 2\obj\Debug\net9.0-windows\Project 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarvis\Desktop\C#\Week 2\Project 2\Project 2\obj\Debug\net9.0-windows\Project 2.AssemblyInfoInputs.cache
+C:\Users\Jarvis\Desktop\C#\Week 2\Project 2\Project 2\obj\Debug\net9.0-windows\Project 2.AssemblyInfo.cs
+C:\Users\Jarvis\Desktop\C#\Week 2\Project 2\Project 2\obj\Debug\net9.0-windows\Project 2.csproj.CoreCompileInputs.cache
+C:\Users\Jarvis\Desktop\C#\Week 2\Project 2\Project 2\obj\Debug\net9.0-windows\Project 2.dll
+C:\Users\Jarvis\Desktop\C#\Week 2\Project 2\Project 2\obj\Debug\net9.0-windows\refint\Project 2.dll
+C:\Users\Jarvis\Desktop\C#\Week 2\Project 2\Project 2\obj\Debug\net9.0-windows\Project 2.pdb
+C:\Users\Jarvis\Desktop\C#\Week 2\Project 2\Project 2\obj\Debug\net9.0-windows\Project 2.genruntimeconfig.cache
+C:\Users\Jarvis\Desktop\C#\Week 2\Project 2\Project 2\obj\Debug\net9.0-windows\ref\Project 2.dll
+C:\Users\Jarvis\Desktop\C#\Week 2\Project 2\Project 2\obj\Debug\net9.0-windows\Project_2.Inventory.resources
+C:\Users\Jarvis\Desktop\C#\Week 2\Project 2\Project 2\obj\Debug\net9.0-windows\Project_2.InputForm.resources
+C:\Users\Jarvis\Desktop\C#\Week 2\Project 2\Project 2\obj\Debug\net9.0-windows\Project_2.OutputForm.resources
