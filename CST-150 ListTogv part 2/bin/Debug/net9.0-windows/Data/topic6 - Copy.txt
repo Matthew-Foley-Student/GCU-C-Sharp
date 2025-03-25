@@ -1,0 +1,7 @@
+Robert, Blue , 55
+Shiela, Red, 68
+Lettice, Blue, 663
+Fern, Brown, 21
+Kialo,White,93
+Greg,Yellow,302
+alex,Violet,75
